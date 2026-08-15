@@ -1,0 +1,374 @@
+{
+  "uuid": "379d67494b90f63df6441a4c2834c260",
+  "path": "Offline/usbprogram",
+  "name": "usbprogram",
+  "content": "",
+  "created_at": "2026-08-15 21:46:01",
+  "updated_at": "2026-08-15 22:35:26",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "e0da4b6f8ec8d32ec83cde984a9846ba",
+      "title": "Sheet_1 copy copy",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "c0b47b60fbaf43f7aba79929e9e0ef20": 1,
+        "d9fb50fc2f38467594fb5c5ccba04602": 1,
+        "b1f2c01898a647fa9d4769334fcbd236": 1,
+        "2d332e2996834baf875ea12267faddeb": 2,
+        "0c7d039d70c04fd58c49320cc5f9f89a": 1,
+        "cc507af334684893a82bcf8ebe90c84e": 1,
+        "839dc2b3bca74632a4441d319060dd65": 1,
+        "be10b59471a54dfea288829676d4fc31": 3,
+        "c6551ffd8df4e1d9edf79a5278696201": 1,
+        "dda72f4b9c6d44759875f1c4322eb86d": 2,
+        "2e454e1f7461e5e9d9544316cdd9019a": 2,
+        "3cf56641f0344ae891411d9aba2576ae": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "100nF",
+          3,
+          "C0402",
+          "C1,C2,C8",
+          {
+            "Manufacturer Part": "CC0402KRX7R7BB104",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C60474"
+          }
+        ],
+        [
+          "1uF",
+          1,
+          "C0402",
+          "C3",
+          {
+            "Manufacturer Part": "CL05A105KA5NQNC",
+            "Manufacturer": "SAMSUNG(三星)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C52923"
+          }
+        ],
+        [
+          "10uF",
+          2,
+          "C0402",
+          "C4,C5",
+          {
+            "Manufacturer Part": "CL05A106MP5NUNC",
+            "Manufacturer": "SAMSUNG(三星)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C315248"
+          }
+        ],
+        [
+          "12pF",
+          2,
+          "C0402",
+          "C6,C7",
+          {
+            "Manufacturer Part": "CL05C120JB5NNNC",
+            "Manufacturer": "SAMSUNG(三星)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C26406"
+          }
+        ],
+        [
+          "5.1kΩ",
+          2,
+          "R0402",
+          "R1,R2",
+          {
+            "Manufacturer Part": "RT0402DRE075K1L",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C723526"
+          }
+        ],
+        [
+          "10kΩ",
+          1,
+          "R0402",
+          "R3",
+          {
+            "Manufacturer Part": "RC0402FR-0710KL",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C60490"
+          }
+        ],
+        [
+          "1TS026A-1000-0550-CT",
+          1,
+          "SW-SMD_4P-L2.6-W1.6-P0.75-LS3.0",
+          "SW1",
+          {
+            "Manufacturer Part": "1TS026A-1000-0550-CT",
+            "Manufacturer": "HYP(鸿源精密)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C913778"
+          }
+        ],
+        [
+          "ATSAMD21E18A-MUT_C2052801",
+          1,
+          "QFN-32_L5.0-W5.0-P0.50-TL-EP3.6",
+          "U1",
+          {
+            "Manufacturer Part": "ATSAMD21E18A-MUT",
+            "Manufacturer": "MICROCHIP(美国微芯)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2052801"
+          }
+        ],
+        [
+          "LM1117GSF-3.3",
+          1,
+          "SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR-CW",
+          "U2",
+          {
+            "Manufacturer Part": "LM1117GSF-3.3",
+            "Manufacturer": "HTC",
+            "Supplier": "LCSC",
+            "Supplier Part": "C481677"
+          }
+        ],
+        [
+          "HX PM1.0-2X3P TP",
+          1,
+          "HDR-SMD_6P-P1.00-V-F-R2-C3-LS3.2",
+          "U4",
+          {
+            "Manufacturer Part": "HX PM1.0-2x3P TP",
+            "Manufacturer": "hanxia(韩下)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C41433838"
+          }
+        ],
+        [
+          "TYPE-C-31-G-07",
+          1,
+          "USB-C-SMD_TYPE-C-31-G-07",
+          "USB2",
+          {
+            "Manufacturer Part": "TYPE-C-31-G-07",
+            "Manufacturer": "韩国韩荣",
+            "Supplier": "LCSC",
+            "Supplier Part": "C530607"
+          }
+        ],
+        [
+          "32.768kHz",
+          1,
+          "CRYSTAL-SMD_L2.0-W1.2",
+          "X1",
+          {
+            "Manufacturer Part": "X201232768KGD2SI",
+            "Manufacturer": "YXC(扬兴晶振)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C383844"
+          }
+        ]
+      ],
+      "updateTime": 1786824894,
+      "createTime": 1786823161,
+      "histories": [],
+      "created_at": "2026-08-15 21:46:01",
+      "updated_at": "2026-08-15 22:14:54"
+    },
+    {
+      "uuid": "1f4df6bf733daa0c44aaa148d8d69ecc",
+      "puuid": "379d67494b90f63df6441a4c2834c260",
+      "title": "PCB_usbprogram",
+      "filename": "PCB_usbprogram.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "0821ed6ea50c44f4909e4be7610e4198": 8,
+        "fafd024f554e426eb74cf4a204aa88b0": 3,
+        "daf4452813f74222a2ae8bb66c3ed0b8": 1,
+        "99b99cf75c824d5aa78f56fc2a5340de": 1,
+        "98fb4570b7004f388dd0061fac2e6374": 1,
+        "0c7ae9a811ee4ae59e10114b1c6c5fdd": 1,
+        "65a2ca566b944d8fb09798328c556988": 1,
+        "0e2474e73eb8431bb7d70c1568c99eeb": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "100nF",
+          3,
+          "C0603",
+          "C1,C2,C12",
+          {
+            "Manufacturer Part": "VJ0603Y104MLJAJ32",
+            "Manufacturer": "VISHAY(威世)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C1513899"
+          }
+        ],
+        [
+          "1uF",
+          1,
+          "C0603",
+          "C4",
+          {
+            "Manufacturer Part": "CL10B105KA8NNNC",
+            "Manufacturer": "SAMSUNG(三星)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C29936"
+          }
+        ],
+        [
+          "12pF",
+          2,
+          "C0603",
+          "C6,C7",
+          {
+            "Manufacturer Part": "FN18N120J500PSG",
+            "Manufacturer": "PSA(信昌电陶)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C363546"
+          }
+        ],
+        [
+          "10uF",
+          2,
+          "C0603",
+          "C13,C14",
+          {
+            "Manufacturer Part": "GRM188D71A106MA73D",
+            "Manufacturer": "muRata(村田)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C162270"
+          }
+        ],
+        [
+          "5.1kΩ",
+          2,
+          "R0402",
+          "R1,R2",
+          {
+            "Manufacturer Part": "RT0402DRE075K1L",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C723526"
+          }
+        ],
+        [
+          "10kΩ",
+          1,
+          "R0603",
+          "R3",
+          {
+            "Manufacturer Part": "ERJ3GEYJ103V",
+            "Manufacturer": "PANASONIC(松下)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C169849"
+          }
+        ],
+        [
+          "1TS026A-1000-0550-CT",
+          1,
+          "SW-SMD_4P-L2.6-W1.6-P0.75-LS3.0",
+          "SW1",
+          {
+            "Manufacturer Part": "1TS026A-1000-0550-CT",
+            "Manufacturer": "HYP(鸿源精密)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C913778"
+          }
+        ],
+        [
+          "ATSAMD21E18A-MUT_C2052801",
+          1,
+          "QFN-32_L5.0-W5.0-P0.50-TL-EP3.6",
+          "U1",
+          {
+            "Manufacturer Part": "ATSAMD21E18A-MUT",
+            "Manufacturer": "MICROCHIP(美国微芯)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2052801"
+          }
+        ],
+        [
+          "LM1117GSF-3.3",
+          1,
+          "SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR-CW",
+          "U2",
+          {
+            "Manufacturer Part": "LM1117GSF-3.3",
+            "Manufacturer": "HTC",
+            "Supplier": "LCSC",
+            "Supplier Part": "C481677"
+          }
+        ],
+        [
+          "HX PM1.0-2X3P TP",
+          1,
+          "HDR-SMD_6P-P1.00-V-F-R2-C3-LS3.2",
+          "U4",
+          {
+            "Manufacturer Part": "HX PM1.0-2x3P TP",
+            "Manufacturer": "hanxia(韩下)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C41433838"
+          }
+        ],
+        [
+          "TYPE-C-31-G-07",
+          1,
+          "USB-C-SMD_TYPE-C-31-G-07",
+          "USB2",
+          {
+            "Manufacturer Part": "TYPE-C-31-G-07",
+            "Manufacturer": "韩国韩荣",
+            "Supplier": "LCSC",
+            "Supplier Part": "C530607"
+          }
+        ],
+        [
+          "32.768kHz",
+          1,
+          "CRYSTAL-SMD_L2.0-W1.2",
+          "X1",
+          {
+            "Manufacturer Part": "X201232768KGD2SI",
+            "Manufacturer": "YXC(扬兴晶振)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C383844"
+          }
+        ]
+      ],
+      "updateTime": 1786826126,
+      "createTime": 1786823462,
+      "histories": [],
+      "created_at": "2026-08-15 21:51:02",
+      "updated_at": "2026-08-15 22:35:26"
+    }
+  ],
+  "sort": [],
+  "title": "usbprogram",
+  "foldername": "usbprogram",
+  "schfilename": "usbprogram.json",
+  "schfilemtime": 1786824894178
+}
